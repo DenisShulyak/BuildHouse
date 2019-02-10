@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\BuildHouse\BuildHouse\obj\Debug\BuildHouse.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BuildHouse\BuildHouse\obj\Debug\BuildHouse.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BuildHouse\BuildHouse\bin\Debug\BuildHouse.exe.config
+C:\Users\User\source\repos\BuildHouse\BuildHouse\bin\Debug\BuildHouse.exe
+C:\Users\User\source\repos\BuildHouse\BuildHouse\bin\Debug\BuildHouse.pdb
+C:\Users\User\source\repos\BuildHouse\BuildHouse\obj\Debug\BuildHouse.exe
+C:\Users\User\source\repos\BuildHouse\BuildHouse\obj\Debug\BuildHouse.pdb
